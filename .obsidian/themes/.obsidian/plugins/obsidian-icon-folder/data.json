@@ -1,0 +1,135 @@
+{
+  "settings": {
+    "migrated": 6,
+    "iconPacksPath": ".obsidian/icons",
+    "fontSize": 16,
+    "emojiStyle": "native",
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "SiMattermost",
+      "SiArc",
+      "SiPortainer",
+      "LiAccessibility",
+      "SiApacheparquet"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": false,
+    "iconInTitleEnabled": false,
+    "iconInTitlePosition": "above",
+    "iconInFrontmatterEnabled": false,
+    "iconInFrontmatterFieldName": "icon",
+    "iconColorInFrontmatterFieldName": "iconColor",
+    "iconsBackgroundCheckEnabled": false,
+    "iconsInNotesEnabled": true,
+    "iconsInLinksEnabled": true,
+    "iconIdentifier": ":",
+    "lucideIconPackType": "native",
+    "debugMode": false
+  },
+  "AutomaçãoPython": {
+    "iconName": "SiPython",
+    "iconColor": "#fff829"
+  },
+  "Desafios": {
+    "iconName": "LiActivity",
+    "iconColor": "#ff0000"
+  },
+  "Diário": {
+    "iconName": "LiBookOpenText",
+    "iconColor": "#44ff00"
+  },
+  "HTML Para Visualização do Token No Email": {
+    "iconName": "SiHtml5",
+    "iconColor": "#292fd6"
+  },
+  "Imagens": {
+    "iconName": "LiImage",
+    "iconColor": "#7b29b3"
+  },
+  "Java Collections": {
+    "iconName": "LiCoffee",
+    "iconColor": "#ffae00"
+  },
+  "Progamação Orientada a Objetos": {
+    "iconName": "FarObjectGroup",
+    "iconColor": "#d400ff"
+  },
+  "Sintaxe Básica Java": {
+    "iconName": "LiAppWindow",
+    "iconColor": "#a87443"
+  },
+  "StreamAPI Java": {
+    "iconName": "SiStreamrunners",
+    "iconColor": "#4b1b1b"
+  },
+  "Work": {
+    "iconName": "LiNetwork",
+    "iconColor": "#0062ff"
+  },
+  "Maven": {
+    "iconName": "SiApachemaven",
+    "iconColor": "#8e3939"
+  },
+  "Teste de Software": {
+    "iconName": "SiTestinglibrary",
+    "iconColor": "#818a00"
+  },
+  "Projetos": {
+    "iconName": "LiBadgeX",
+    "iconColor": "#8f0032"
+  },
+  "Faculdade": "🧑‍🎓",
+  "Banco De Dados Relacionais": {
+    "iconName": "LiServer",
+    "iconColor": "#00ff59"
+  },
+  "Spring/Spring Framework.md": {
+    "iconName": "SiSpring",
+    "iconColor": "#4dff00"
+  },
+  "Spring": {
+    "iconName": "SiSpring",
+    "iconColor": "#2c9400"
+  },
+  "Work/Desenvolvimento Web.md": {
+    "iconName": "SiInternetexplorer",
+    "iconColor": "#26bec9"
+  },
+  "Apple Academy Study": "SiApple",
+  "Rest com Spring Web": {
+    "iconName": "SiWebpack",
+    "iconColor": "#4f8d1c"
+  },
+  "FlashCards Java": {
+    "iconName": "SiCoffeescript",
+    "iconColor": "#aeff00"
+  },
+  "MicroService em Spring": "SiMicrosoftsqlserver",
+  "RoadMap Sankhya Developer": "LiSlidersVertical",
+  "Web Components Front-End": "SiInternetexplorer",
+  "TypeScript para Angular": "SiTypescript",
+  "REST SpringWeb e Swagger": "SiSwagger",
+  "Curso Spring e Angular17": "📚",
+  "Linux": "SiLinux",
+  "Decoder 2.0 Spring Microservices Especialista": "SiAmazonsimpleemailservice",
+  "Segurança com Spring Security": "SiSpringsecurity",
+  "Swing": "RaAxeSwing",
+  "Angular 17+": "SiAngular",
+  "Ebac": "SiEmbarcadero",
+  "Origamid": "LiOrigami",
+  "Trabalho de Redes": "RaWifi",
+  "Gerador de Recibos Mãe": "LiHeart",
+  "Putty": "SiPagerduty",
+  "Gerador de Recibos Simianer": "SiApacheparquet",
+  "Pitch Intant Message Brasfort": "LiAccessibility",
+  "Portainer": "SiPortainer",
+  "Arquitetura de Software": "SiArc",
+  "Alteração Front-End Mattermost": "SiMattermost"
+}
