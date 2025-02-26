@@ -79,12 +79,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Estudos/Java/Definição.md",
+                "file": "Cursos/Git e GitHub.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Definição"
+              "title": "Git e GitHub"
             }
           },
           {
@@ -175,7 +175,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Estudos/Java/Definição.md",
+                "file": "Cursos/Git e GitHub.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,7 +185,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Links inversos para Definição"
+              "title": "Links inversos para Git e GitHub"
             }
           },
           {
@@ -248,12 +248,14 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "6e770dd3da15acba",
+  "active": "22c4c8bd2ae716cd",
   "lastOpenFiles": [
+    "Faculdade/Teoria dos Grafos.md",
+    "Sem título.md",
+    "Estudos/Java/Definição.md",
     "CadernoDigital",
     "Estudos/Java",
     "Primeira Nota.md",
-    "Estudos/Java/Definição.md",
     "Notas Permanentes.md",
     "Estudos",
     "Cursos/Git e GitHub.md",
@@ -267,7 +269,6 @@
     "Estilização d",
     "Faculdade/6 Semestre",
     "Faculdade/5 Semestre",
-    "Faculdade/Teoria dos Grafos.md",
     "Faculdade",
     "Faculdade/Imagens de Estudo da Faculdade",
     "Faculdade/Imagens de Estudo da Faculdade/Pasted image 20240827182251.png",

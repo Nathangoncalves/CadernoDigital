@@ -34,3 +34,11 @@
 **MERGE (ou git merge)** - Mesclar códigos em diferentes branches (universos) - *isso é algo que grandes times fazem (meio que cria um universo paralelo e faz com que o principal absorva o paralelo)*
 
 teste teste
+
+**Para Conseguir Enviar meus Arquivos do Obsidian para Minhas Notas:**
+
+Baixo o gh *(winget install -e --id GitHub.cli)*, fecho o terminal e abro novamente e verifico a versão *(gh - v)*, logo após isso, tenho que dar login no gh (caso não tenha logado antes no PC que eu esteja) *(gh auth login)*, entro na pasta que está *(Desktop)*, depois vou no nome da Pasta *(CadernoDigital)*.
+
+**Caso eu Queira Criar um Novo Repositório pelo GH**
+
+Realizo o seguinte comando no terminal: *(gh repo create)* e logo em seguida dou o meu commit *(git commit -m "Init Commit")*,  logo em seguida envio para minha main usando *(git push origin main)*,  verifico se deu tudo certo com *(git status)* e finalizo tudo.
