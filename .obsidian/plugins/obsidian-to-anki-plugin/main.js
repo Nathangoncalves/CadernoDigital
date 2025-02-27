@@ -68504,3 +68504,5 @@ class MyPlugin extends obsidian.Plugin {
 }
 
 module.exports = MyPlugin;
+
+/* nosourcemap */

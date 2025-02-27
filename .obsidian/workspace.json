@@ -4,105 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "84c23fa1d9615c1c",
+        "id": "f29efb3eb3452e6c",
         "type": "tabs",
         "children": [
           {
-            "id": "ecfaeb61e18d1db5",
+            "id": "df073f094c23604f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Teoria dos Grafos.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Teoria dos Grafos"
-            }
-          },
-          {
-            "id": "1e0c6ba7bcbdee62",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Teoria dos Grafos.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Teoria dos Grafos"
-            }
-          },
-          {
-            "id": "13d917dd0f85dda1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Git e GitHub.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Git e GitHub"
-            }
-          },
-          {
-            "id": "284629696db1b3b7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "5 Semestre.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "5 Semestre"
-            }
-          },
-          {
-            "id": "22c4c8bd2ae716cd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cursos/Git e GitHub.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Git e GitHub"
-            }
-          },
-          {
-            "id": "4a8774e62df1ed91",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Git e GitHub.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Git e GitHub"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Visualização em gráfico"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -134,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#HTTPS",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -175,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cursos/Git e GitHub.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,7 +99,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Links inversos para Git e GitHub"
+              "title": "Backlinks"
             }
           },
           {
@@ -240,31 +154,41 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "random-note:Abrir nota aleatória": false,
       "switcher:Abrir a troca rápida": false,
       "graph:Abrir visualização em gráfico": false,
       "canvas:Criar novo canvas": false,
       "daily-notes:Abrir a nota de hoje": false,
       "templates:Inserir modelo": false,
-      "command-palette:Abrir paleta de comandos": false
+      "command-palette:Abrir paleta de comandos": false,
+      "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false
     }
   },
-  "active": "22c4c8bd2ae716cd",
+  "active": "6e770dd3da15acba",
   "lastOpenFiles": [
-    "Faculdade/Teoria dos Grafos.md",
-    "Sem título.md",
+    "Cursos/Boot Camp Java.md",
+    "Estudos/Java/CLASSES.md",
+    "Faculdade/6 Semestre/Tecnologias Web/Tecnologias Web.md",
+    "Faculdade/6 Semestre/Tecnologias Web/HTML.md",
+    "Faculdade/6 Semestre/Tecnologias Web/Primitiva.md",
+    "Faculdade/6 Semestre/Tecnologias Web/HTTP.md",
+    "Faculdade/6 Semestre/Tecnologias Web",
+    "Faculdade/Imagens de Estudo da Faculdade/Pasted image 20250227181325.png",
+    "Faculdade/Imagens de Estudo da Faculdade/Pasted image 20250227181318.png",
     "Estudos/Java/Definição.md",
+    "Sem título.canvas",
+    "Sem título 1.canvas",
+    "Cursos/Git e GitHub.md",
+    "Faculdade/Teoria dos Grafos.md",
     "CadernoDigital",
     "Estudos/Java",
     "Primeira Nota.md",
     "Notas Permanentes.md",
     "Estudos",
-    "Cursos/Git e GitHub.md",
-    "Cursos/Boot Camp Java.md",
     "Cursos",
     "features.md",
     "Causas da Revolução Francesa.md",
     "Faculdade/5 Semestre/Análise de Módulos de um Sistema.md",
-    "Faculdade/6 Semestre/6 Semestre.md",
     "4 Tipos de Notas.md",
     "Estilização d",
     "Faculdade/6 Semestre",
