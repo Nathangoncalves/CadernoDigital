@@ -37,7 +37,7 @@ Plataforma de hospedagem de código para controle de versão com Git, e colabora
 - Utilizada mundialmente.
 - Mascote "Octocat"
  
-Qual a diferença de Git e GitHub?
+Qual a diferença de [[Git e GitHub]]?
 
 - Git realiza todo o direcionamento  
 

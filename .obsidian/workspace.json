@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "f29efb3eb3452e6c",
+        "id": "e663fe74e6617f8b",
         "type": "tabs",
         "children": [
           {
-            "id": "df073f094c23604f",
+            "id": "89e19af210333b65",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Visualização em gráfico"
+              "type": "markdown",
+              "state": {
+                "file": "Faculdade/6 Semestre/Tecnologias Web/Tecnologias Web.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Tecnologias Web"
             }
           }
         ]
@@ -90,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Faculdade/6 Semestre/Tecnologias Web/Tecnologias Web.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +104,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Links inversos para Tecnologias Web"
             }
           },
           {
@@ -164,22 +169,27 @@
       "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false
     }
   },
-  "active": "6e770dd3da15acba",
+  "active": "89e19af210333b65",
   "lastOpenFiles": [
-    "Cursos/Boot Camp Java.md",
-    "Estudos/Java/CLASSES.md",
-    "Faculdade/6 Semestre/Tecnologias Web/Tecnologias Web.md",
-    "Faculdade/6 Semestre/Tecnologias Web/HTML.md",
-    "Faculdade/6 Semestre/Tecnologias Web/Primitiva.md",
     "Faculdade/6 Semestre/Tecnologias Web/HTTP.md",
+    "Faculdade/6 Semestre/Tecnologias Web/HTML.md",
+    "Cursos/Boot Camp Java/Git e GitHub.md",
+    "Cursos/Boot Camp Java/Introduzindo Versionamento de Código com Git e GitHub..md",
+    "Cursos/Boot Camp Java/Definição.md",
+    "Faculdade/5 Semestre/Análise de Módulos de um Sistema.md",
+    "Faculdade/5 Semestre/5 Semestre.md",
+    "Cursos/Boot Camp Java/Início.md",
+    "Cursos/Boot Camp Java",
+    "Cursos/Boot Camp Java/Classes.md",
+    "Faculdade/5 Semestre/Teoria dos Grafos.md",
+    "Faculdade/5 Semestre/Linguagens Formais e Autômatos.md",
+    "Faculdade/6 Semestre/Tecnologias Web/Tecnologias Web.md",
+    "Faculdade/6 Semestre/Tecnologias Web/Primitiva.md",
     "Faculdade/6 Semestre/Tecnologias Web",
     "Faculdade/Imagens de Estudo da Faculdade/Pasted image 20250227181325.png",
     "Faculdade/Imagens de Estudo da Faculdade/Pasted image 20250227181318.png",
-    "Estudos/Java/Definição.md",
     "Sem título.canvas",
     "Sem título 1.canvas",
-    "Cursos/Git e GitHub.md",
-    "Faculdade/Teoria dos Grafos.md",
     "CadernoDigital",
     "Estudos/Java",
     "Primeira Nota.md",
@@ -188,21 +198,16 @@
     "Cursos",
     "features.md",
     "Causas da Revolução Francesa.md",
-    "Faculdade/5 Semestre/Análise de Módulos de um Sistema.md",
     "4 Tipos de Notas.md",
     "Estilização d",
     "Faculdade/6 Semestre",
     "Faculdade/5 Semestre",
     "Faculdade",
-    "Faculdade/Imagens de Estudo da Faculdade",
     "Faculdade/Imagens de Estudo da Faculdade/Pasted image 20240827182251.png",
     "Faculdade/Imagens de Estudo da Faculdade/Pasted image 20240827181826.png",
-    "Faculdade/5 Semestre/5 Semestre.md",
     "Faculdade/Imagens de Estudo da Faculdade/Pasted image 20240827184123.png",
     "Faculdade/Imagens de Estudo da Faculdade/Pasted image 20240827182347.png",
     "Faculdade/Imagens de Estudo da Faculdade/Pasted image 20240827181832.png",
-    "Cursos/Introduzindo Versionamento de Código com Git e GitHub..md",
-    "Faculdade/5 Semestre/Linguagens Formais e Autômatos.md",
     "Introduzind.md",
     "LFA.md",
     "Welcome.md",

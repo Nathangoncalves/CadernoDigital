@@ -4,7 +4,7 @@ A linguagem é composta por um conjunto bem definido de funcionalidades [[featur
 
 **Orientada a Objeto**
 
-Java é uma linguagem de programação orientada a objetos. Isso significa que em Java tudo é escrito em termos de [[CLASSES]] e [[OBJETOS]]
+Java é uma linguagem de programação orientada a objetos. Isso significa que em Java tudo é escrito em termos de [[Classes]] e [[OBJETOS]]
 
 Para começar a desenvolver softwares de forma consistente em java, é necessário compreender os pilares da Programação Orientada a Objetos (POO). Eles são:
 
@@ -43,3 +43,6 @@ Nas linguagens de programação, você aprendeu que eles usam o compilador ou o 
 **Multi-Thread**
 
 Thread é um subprocesso leve e independente de um programa em execução (ou seja, processo) que compartilha recursos. Multi-threading é o nome dado ao processo de vários threads sendo executados simultaneamente.
+
+**[[Classes]]**
+
