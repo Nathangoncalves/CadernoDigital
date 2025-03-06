@@ -53,3 +53,14 @@
 	- Tem por característica dividir funcionalidades de um sistema em partes, porém, com um mesmo núcleo. 
 	- A proposta da arquitetura monolítica é usar modelos como containers, cada um com a estrutura necessária para suportar uma aplicação por inteiro.
 		- Sistemas do tipo ERP(enterprise resourse planning) são aplicações de grande porte. Esse tipo de sistema tem por caracteróstica ser modular, ou seja, cada parte do sistema é, ao mesmo tempo, independente, porém, integrada aos demais.
+ - **Protocolos** 
+	 - Protocolos como [[HTTP]], ETP, POP, [[SMTP]] são fundamentais para a maneira como nos comunicamos hoje via web.
+	 - Outros serviços, como DNS e SSL, garantem a comunicação de maneira rastreável e como forma de identificar cada usuário na internet.
+
+- **Padrões da Web e Aspectos**
+	- Segurança
+	- Escalabilidade
+	- Disponibilidade
+	- Acessibilidade
+- O ambiente Web é utilizado por bilhões de pessoas em todo o mundo. Seja para fins pessoais, seja para fins profissionais, as aplicações Web fazem parte da sua rotina, como quando você acessa seu _e-mail_, assiste a um vídeo ou ouve uma música _on-line_ e até estuda, como está acontecendo agora. Por trás de todas as aplicações estão níveis de segurança e camadas de sistema, todos funcionando sob protocolos de conexão e segurança de dados.
+- 

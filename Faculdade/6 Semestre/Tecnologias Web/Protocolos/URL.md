@@ -1,0 +1,1 @@
+- A uniform resource location é o que digitamos na barra de endereço de um navegador. Trata-se de uma forma de identificar unicamente o local de arquivo de hipermídia.

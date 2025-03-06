@@ -1,0 +1,2 @@
+-  O SMTP/POP: ambos são protocolos de comunicação de e-mails. O primeiro é o simple mail transfer protocol, responsável pelo envio de e-mails. O pos office protocol (POP) é o protocolo que recebe mensagens e e-mails, acessando o servidor de e-mail e trazendo ao usuário as mensagens em sua caixa de entrada.
+- Além disso, temos também o [[DNS]] e o [[SSL]] que é uma camada de proteção a mais instalada em servidores web. Eles são formas como aplicações web conversam com servidores web por meio da internet. 

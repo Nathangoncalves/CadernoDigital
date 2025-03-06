@@ -1,0 +1,3 @@
+- é o secure socket layer.
+- É uma camada a mais que protege um sistema web hospedado em servidores web. 
+- Sabe quando você entra em um site ou sistema web e vê um cadeado dourado na barra inferior do navegador ou na barra de endereço da URL? Pois é, aquilo ali representa que há algum tipo de criptografia de dados naquela página.

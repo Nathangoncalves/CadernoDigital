@@ -1,0 +1,1 @@
+-  O file transfer protocol é o protocolo de transferência de arquivos. Geralmente utilizado por desenvolvedores de sistemas para enviar os arquivos de código-fonte de sistemas criados para os servidores. Em algumas situações se utiliza esse protocolo dentro de aplicações para a transmissão de arquivos de maior tamanho.
