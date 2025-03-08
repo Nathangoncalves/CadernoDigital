@@ -1,4 +1,14 @@
 [
   "obsidian-style-settings",
-  "obsidian-to-anki-plugin"
+  "obsidian-to-anki-plugin",
+  "3d-graph",
+  "table-editor-obsidian",
+  "flashcards-obsidian",
+  "folder-note-plugin",
+  "obsidian-git",
+  "obsidian-icon-folder",
+  "obsidian-linter",
+  "obsidian-minimal-settings",
+  "obsidian-pandoc",
+  "readwise-official"
 ]

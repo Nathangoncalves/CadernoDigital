@@ -1,0 +1,1 @@
+- Indica como o autor espera que seja o carregamento do som na pagina, tendo em vista otimizar a experiencia do usuario 

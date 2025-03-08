@@ -1,0 +1,2 @@
+- Destina-se a indicar a origem do arquivo, de som a ser incorporado na pagina. 
+- Os valores possiveis sao *anonymus* e *use-credentials*

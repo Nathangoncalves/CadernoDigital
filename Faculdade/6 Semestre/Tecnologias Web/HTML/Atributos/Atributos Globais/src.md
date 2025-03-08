@@ -1,0 +1,1 @@
+- O arquiivo src destina-se a indicar o caminho para o arquivo de som a ser incorporado na página. 

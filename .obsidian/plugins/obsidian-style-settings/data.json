@@ -1,8 +1,4 @@
 {
-  "blue-topaz-theme@@color-scheme-options": "color-scheme-options-simplicity-topaz",
-  "blue-topaz-theme@@background-settings-workplace-background-image": true,
-  "blue-topaz-theme@@background-settings-workplace-theme-dark": "background-settings-workplace-theme-dark-night-sky",
-  "Blue-Topaz-Codebox-Highlight@@code-theme-selection": "code-theme-material-palenight",
   "id@@colorblind_protan-deutan": false,
   "id@@h1-underline": true,
   "id@@h2-underline": true,
@@ -18,7 +14,6 @@
   "id@@h3-color-theme@@dark": "#32CD32",
   "id@@h2-color-theme@@dark": "#4682B4",
   "id@@h1-color-theme@@dark": "#FF6347",
-  "blue-topaz-theme@@background-settings-workplace-theme-dark-custom": "url(\"https://\")",
   "anuppuccin-theme-settings@@anuppuccin-theme-light": "ctp-rosepine-light",
   "anuppuccin-theme-settings@@anuppuccin-theme-dark": "ctp-mocha",
   "anuppuccin-theme-settings@@anuppuccin-theme-accents": "ctp-accent-teal",
@@ -90,5 +85,8 @@
   "anuppuccin-theme-settings@@anp-card-layout-actions": true,
   "anuppuccin-theme-settings@@anp-card-layout-filebrowser": true,
   "anuppuccin-theme-settings@@anp-border-radius": 16,
-  "anuppuccin-theme-settings@@anp-border-padding": 20
+  "anuppuccin-theme-settings@@anp-border-padding": 20,
+  "blue-topaz-theme@@background-settings-workplace-background-image": true,
+  "blue-topaz-theme@@background-image-settings-switch": true,
+  "blue-topaz-theme@@background-settings-workplace-theme-dark": "background-settings-workplace-theme-dark-dark-sky"
 }

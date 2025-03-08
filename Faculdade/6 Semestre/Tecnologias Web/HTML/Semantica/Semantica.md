@@ -1,0 +1,7 @@
+- A semantica trata-se de melhorar o seu site de forma que melhore sua interpretacao.
+- A semantica melhora:
+	- o SEO (google entende melhor o conteudo)
+	- Acessibilidade (Leitores de tela interpretam melhor)
+	- Codigo mais organizado e legivel
+	- Facilita manutencao
+- Trata-se de um grande desafio para os mecanismos de busca da atualidade classificar a importância e relevância das informações contidas nas páginas. Com esse intuito, novas [[tags]] foram criadas, dando maior importancia para a semantica dos textos. Essas _tags_ comportam com a tradicional _tag_ 

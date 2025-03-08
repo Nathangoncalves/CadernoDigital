@@ -1,0 +1,2 @@
+- Destina-se a  fazer com que o navegador redenize os controls nativos para o usuario interagir com som. 
+- Esse atributo e de uso **obrigatorio**, salvo nos casos em que pretendemos criar controles personalizados.

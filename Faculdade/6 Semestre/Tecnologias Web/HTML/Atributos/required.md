@@ -1,0 +1,1 @@
+- Quer dizer obrigatorio, ou seja, exige o preenchimento da caixa de texto, impedindo o formulario de ser submetido enquanto a condicao nao for satisfeita. 

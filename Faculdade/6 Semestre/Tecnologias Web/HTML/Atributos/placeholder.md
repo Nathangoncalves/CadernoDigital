@@ -1,0 +1,4 @@
+- E responsavel por exibir imagens, como marca dagua, na caixa de texto que se encontra vazia.
+- Exemplo:
+- ![[Pasted image 20250308124604.png]]
+- 
