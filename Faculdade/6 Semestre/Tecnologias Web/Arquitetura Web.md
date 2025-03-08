@@ -1,4 +1,4 @@
-**Arquitetura Web - Unidade 1**
+**Unidade 1**
 
 **Amazon:** A AWS é o serviço Web da Amazon. A empresa oferece opções de uso de seus servidores para usuários comuns utilizarem como repositório de arquivos, mas o forte é o serviço prestado às empresas e às intituições públicas e privadas.
 

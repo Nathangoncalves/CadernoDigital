@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Faculdade/6 Semestre/Tecnologias Web/Tecnologias Web.md",
+                "file": "Faculdade/6 Semestre/Tecnologias Web/HTML/Versoes do HTML/HTML5.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Tecnologias Web"
+              "title": "HTML5"
             }
           }
         ]
@@ -44,7 +44,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Explorador de arquivos"
+              "title": "Explorador de ficheiros"
             }
           },
           {
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Faculdade/6 Semestre/Tecnologias Web/Tecnologias Web.md",
+                "file": "Faculdade/6 Semestre/Tecnologias Web/HTML/Versoes do HTML/HTML5.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Links inversos para Tecnologias Web"
+              "title": "Backlinks para HTML5"
             }
           },
           {
@@ -159,41 +159,51 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "switcher:Abrir Quick Switcher": false,
+      "graph:Abrir Visualização de diagrama de grafo": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Abrir nota de hoje": false,
+      "templates:Inserir templates": false,
+      "command-palette:Abrir paleta de comando": false,
       "random-note:Abrir nota aleatória": false,
-      "switcher:Abrir a troca rápida": false,
-      "graph:Abrir visualização em gráfico": false,
-      "canvas:Criar novo canvas": false,
-      "daily-notes:Abrir a nota de hoje": false,
-      "templates:Inserir modelo": false,
-      "command-palette:Abrir paleta de comandos": false,
       "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false
     }
   },
   "active": "89e19af210333b65",
   "lastOpenFiles": [
+    "Faculdade/6 Semestre/Tecnologias Web/HTML/HTML.md",
+    "Faculdade/6 Semestre/Tecnologias Web/HTML/Versoes do HTML/HTML5.md",
+    "Faculdade/6 Semestre/Tecnologias Web/HTML/Versoes do HTML/HTML4.md",
+    "Faculdade/6 Semestre/Tecnologias Web/HTML/Versoes do HTML/XHTML1.md",
+    "Faculdade/6 Semestre/TIpo de Documento/DOCTYPE.md",
+    "Faculdade/6 Semestre/TIpo de Documento",
+    "Faculdade/6 Semestre/Tecnologias Web/HTML/front-end.md",
+    "Faculdade/6 Semestre/Tecnologias Web/HTML/API.md",
+    "Faculdade/6 Semestre/Tecnologias Web/JavaScript/JavaScript.md",
+    "Faculdade/6 Semestre/Tecnologias Web/JavaScript",
+    "Faculdade/6 Semestre/Tecnologias Web/HTML/plug-ins.md",
+    "Faculdade/6 Semestre/Tecnologias Web/HTML/Versoes do HTML",
+    "Faculdade/6 Semestre/Tecnologias Web/HTML/SGML.md",
+    "Faculdade/6 Semestre/Tecnologias Web/HTML/elemento href.md",
+    "Faculdade/6 Semestre/Tecnologias Web/HTML/marcacao a.md",
+    "Faculdade/6 Semestre/Tecnologias Web/HTML/tags.md",
+    "Faculdade/6 Semestre/Tecnologias Web/HTML",
+    "Faculdade/6 Semestre/Tecnologias Web/Protocolos/HTTP.md",
+    "Faculdade/6 Semestre/Tecnologias Web/Arquitetura Web.md",
+    "Faculdade/6 Semestre/Tecnologias Web/Evolucao Historica do HTML.md",
+    "Faculdade/6 Semestre/Tecnologias Web/Tecnologias Web.md",
+    "Arquitetura Web",
     "Faculdade/6 Semestre/Tecnologias Web/Protocolos/DNS.md",
     "Faculdade/6 Semestre/Tecnologias Web/Protocolos/FTP.md",
-    "Faculdade/6 Semestre/Tecnologias Web/Protocolos/HTML.md",
-    "Faculdade/6 Semestre/Tecnologias Web/Protocolos/HTTP.md",
     "Faculdade/6 Semestre/Tecnologias Web/Protocolos/HTTPS.md",
     "Faculdade/6 Semestre/Tecnologias Web/Protocolos/HTTPS 2.md",
     "Faculdade/6 Semestre/Tecnologias Web/Protocolos/SMTP.md",
     "Faculdade/6 Semestre/Tecnologias Web/Protocolos/SSL.md",
-    "Faculdade/6 Semestre/Tecnologias Web/Tecnologias Web.md",
     "Faculdade/6 Semestre/Tecnologias Web/Protocolos/URL.md",
     "Faculdade/6 Semestre/Tecnologias Web/Protocolos",
     "H.md",
     "Cursos/Boot Camp Java/Git e GitHub.md",
-    "Cursos/Boot Camp Java/Introduzindo Versionamento de Código com Git e GitHub..md",
-    "Cursos/Boot Camp Java/Definição.md",
-    "Faculdade/5 Semestre/Análise de Módulos de um Sistema.md",
-    "Faculdade/5 Semestre/5 Semestre.md",
-    "Cursos/Boot Camp Java/Início.md",
     "Cursos/Boot Camp Java",
-    "Cursos/Boot Camp Java/Classes.md",
-    "Faculdade/5 Semestre/Teoria dos Grafos.md",
-    "Faculdade/5 Semestre/Linguagens Formais e Autômatos.md",
-    "Faculdade/6 Semestre/Tecnologias Web/Primitiva.md",
     "Faculdade/6 Semestre/Tecnologias Web",
     "Faculdade/Imagens de Estudo da Faculdade/Pasted image 20250227181325.png",
     "Faculdade/Imagens de Estudo da Faculdade/Pasted image 20250227181318.png",
@@ -201,16 +211,6 @@
     "Sem título 1.canvas",
     "CadernoDigital",
     "Estudos/Java",
-    "Primeira Nota.md",
-    "Notas Permanentes.md",
-    "Estudos",
-    "Cursos",
-    "features.md",
-    "Causas da Revolução Francesa.md",
-    "4 Tipos de Notas.md",
-    "Estilização d",
-    "Faculdade/6 Semestre",
-    "Faculdade/5 Semestre",
     "Faculdade/Imagens de Estudo da Faculdade/Pasted image 20240827182251.png",
     "Faculdade/Imagens de Estudo da Faculdade/Pasted image 20240827181826.png",
     "Faculdade/Imagens de Estudo da Faculdade/Pasted image 20240827184123.png",
